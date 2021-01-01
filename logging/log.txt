@@ -1,0 +1,5 @@
+2021-01-01 23:05:52,874-log.py[line: 20]-WARNING: This is warning message
+2021-01-01 23:05:52,874-log.py[line: 21]-CRITICAL: This is critical message
+2021-01-01 23:06:14,323-logging_.py[line: 11]-WARNING: This is warning message
+2021-01-01 23:06:14,323-logging_.py[line: 12]-ERROR: This is error message
+2021-01-01 23:06:14,323-logging_.py[line: 13]-CRITICAL: This is critical message
