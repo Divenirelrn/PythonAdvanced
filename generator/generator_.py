@@ -1,3 +1,7 @@
+#列表生成器方式make一个生成器
+g = (x * x for x in range(10))
+
+#yield方式
 import time
 
 def worker1():
